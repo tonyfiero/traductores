@@ -1,0 +1,9 @@
+{
+  "name": "Koe - Traductor Español Japonés PWA",
+  "description": "Traductor compacto y rápido Español ⇄ Japonés para iPhone con voz, cámara OCR, Romaji y modo pantalla completa sin conexión.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
